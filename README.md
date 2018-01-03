@@ -3,7 +3,7 @@ This repo is all about the implementation of machine-learning alogrithms like Re
 dataPreprocessing and Natural language  processing(NLP) 
 Foremost and important step to build a model is have clean data i.e data without noise, data that suitable for the algorithm to build
   I build datapreprocessing template
- DataPreprocessing:https://github.com/naveenanallamotu/MachineLearningWithR/wiki/DataPreprocessing <br>                              </br>
+ DataPreprocessing:https://github.com/naveenanallamotu/pythonMachineLearning/wiki/DataPreprocessing <br>                              </br>
   After that start build models using machine learning algorithms and this algoritms are cateogrized as follow
 Machine learning is branched into three major methodologies based on functionality of the algorithm.
  ![image](https://user-images.githubusercontent.com/21260810/34419639-97b19612-ebca-11e7-9a99-20b706e11a5b.png)
@@ -30,10 +30,10 @@ These are called unsupervised learning because unlike supervised learning above 
 Unsupervised learnig mechanism.
 ![images3](https://user-images.githubusercontent.com/21260810/34421811-32864794-ebd7-11e7-9471-f3712b5e649c.PNG)
 1)Clustering: Divide the data into groups based on the similarity. without taking the consideration of for what we are grouping.
-Kmeans:https://github.com/naveenanallamotu/pythonMachineLearning/wiki/KmeansClustering
-Hierarchical clustering:https://github.com/naveenanallamotu/pythonMachineLearning/wiki/HierarchicalClustering
+Kmeans:https://github.com/naveenanallamotu/pythonMachineLearning/wiki/KmeansClustering<br>                                   </br>
+Hierarchical clustering:https://github.com/naveenanallamotu/pythonMachineLearning/wiki/HierarchicalClustering<br>             </br>
 2)Association Rules: In this we are intrested in frequent patterns:
-Apriori:https://github.com/naveenanallamotu/pythonMachineLearning/wiki/Apriori-AssociationRule
+Apriori:https://github.com/naveenanallamotu/pythonMachineLearning/wiki/Apriori-AssociationRule<br>                               </br>
 #Reinforcement learning:
 Learn from the close interarction with envirnoment and here Algorithm sense the state of teh environment and act accordingly it, with reaction of agent the envirnomet might change here.Envirnoment also gives feedback to agent
 main used in gamming and AI or dynamic environments.
